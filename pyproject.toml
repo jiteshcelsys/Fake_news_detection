@@ -17,4 +17,5 @@ dependencies = [
     "httpx>=0.28.1",
     "beautifulsoup4>=4.14.3",
     "requests>=2.33.1",
+    "langchain-google-genai>=4.2.2",
 ]
